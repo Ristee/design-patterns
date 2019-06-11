@@ -13,16 +13,15 @@ class SamsPHPBook extends AbstractPHPBook
 
     public function __construct()
     {
-        //alternate randomly between 2 books
-        mt_srand((double)microtime() * 10000000);
-        $rand_num = mt_rand(0, 1);
-
-        if (1 > $rand_num) {
+        //alternate between 2 books
+        if ('odd' == self::$oddOrEven) {
             $this->author = 'George Schlossnagle';
             $this->title = 'Advanced PHP Programming';
+            self::$oddOrEven = 'even';
         } else {
             $this->author = 'Christian Wenz';
             $this->title = 'PHP Phrasebook';
+            self::$oddOrEven = 'odd';
         }
     }
 
