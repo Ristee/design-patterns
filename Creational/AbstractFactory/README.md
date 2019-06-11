@@ -5,4 +5,4 @@
 
 ## Examples
 
-* [Abstract Factory in PHP: Book](Creational/AbstractFactory/Php)
+* [Abstract Factory in PHP: Book](Php)
