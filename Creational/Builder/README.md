@@ -5,4 +5,4 @@
 
 ## Examples
 
-* [Builder in PHP: SQL query builder](Php\SQLQueryBuilder)
+* [Builder in PHP: SQL query builder](Php/SQLQueryBuilder)
