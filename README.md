@@ -7,5 +7,6 @@
 
 ### [Creational](Creational)
 
-* [AbstractFactory](Creational/AbstractFactory)
+* [Abstract factory](Creational/AbstractFactory)
 * [Builder](Creational/Builder)
+* [Factory method](Creational/FactoryMethod)
