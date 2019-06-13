@@ -5,4 +5,4 @@
 
 ## Examples
 
-* [Builder in PHP: SocialNetworkPoster](Php/SocialNetworkPoster)
+* [Factory Method in PHP: SocialNetworkPoster](Php/SocialNetworkPoster)
