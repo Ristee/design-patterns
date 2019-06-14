@@ -10,3 +10,4 @@
 * [Abstract factory](Creational/AbstractFactory)
 * [Builder](Creational/Builder)
 * [Factory method](Creational/FactoryMethod)
+* [Prototype](Creational/Prototype)

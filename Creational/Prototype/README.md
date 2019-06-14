@@ -1,8 +1,8 @@
-# Factory Method
+# Prototype
 
-- [SourceMaking: Factory Method](https://sourcemaking.com/design_patterns/factory_method)
-- [Refactoring.Guru: Factory Method](https://refactoring.guru/design-patterns/factory-method)
+- [SourceMaking: Prototype](https://sourcemaking.com/design_patterns/prototype)
+- [Refactoring.Guru: Prototype](https://refactoring.guru/design-patterns/prototype)
 
 ## Examples
 
-* [Factory Method in PHP: SocialNetworkPoster](Php/SocialNetworkPoster)
+* [Prototype in PHP: Page](Php/Page)
