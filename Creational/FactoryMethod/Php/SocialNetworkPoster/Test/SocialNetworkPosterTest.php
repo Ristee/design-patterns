@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Creational\FactoryMethod\Php\SocialNetworkPoster;
+namespace DesignPatterns\Creational\FactoryMethod\Php\SocialNetworkPoster\Test;
 
 use DesignPatterns\Creational\FactoryMethod\Php\SocialNetworkPoster\Facebook\FacebookPoster;
 use DesignPatterns\Creational\FactoryMethod\Php\SocialNetworkPoster\LinkedIn\LinkedInPoster;
