@@ -11,3 +11,4 @@
 * [Builder](Creational/Builder)
 * [Factory method](Creational/FactoryMethod)
 * [Prototype](Creational/Prototype)
+* [Singleton](Creational/Singleton)
