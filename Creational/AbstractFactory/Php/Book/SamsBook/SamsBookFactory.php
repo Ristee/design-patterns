@@ -1,8 +1,8 @@
 <?php
 
-namespace DesignPatterns\Creational\AbstractFactory\Php\SamsBook;
+namespace DesignPatterns\Creational\AbstractFactory\Php\Book\SamsBook;
 
-use DesignPatterns\Creational\AbstractFactory\Php\AbstractBookFactory;
+use DesignPatterns\Creational\AbstractFactory\Php\Book\AbstractBookFactory;
 
 class SamsBookFactory extends AbstractBookFactory
 {

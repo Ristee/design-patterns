@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Creational\AbstractFactory\Php;
+namespace DesignPatterns\Creational\AbstractFactory\Php\Book;
 
 abstract class AbstractBook
 {

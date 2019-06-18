@@ -1,9 +1,9 @@
 <?php
 
-namespace DesignPatterns\Creational\AbstractFactory\Php\Test;
+namespace DesignPatterns\Creational\AbstractFactory\Php\Book\Test;
 
-use DesignPatterns\Creational\AbstractFactory\Php\OReillyBook\OReillyBookFactory;
-use DesignPatterns\Creational\AbstractFactory\Php\SamsBook\SamsBookFactory;
+use DesignPatterns\Creational\AbstractFactory\Php\Book\OReillyBook\OReillyBookFactory;
+use DesignPatterns\Creational\AbstractFactory\Php\Book\SamsBook\SamsBookFactory;
 use PHPUnit\Framework\TestCase;
 
 

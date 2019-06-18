@@ -1,8 +1,8 @@
 <?php
 
-namespace DesignPatterns\Creational\AbstractFactory\Php\OReillyBook;
+namespace DesignPatterns\Creational\AbstractFactory\Php\Book\OReillyBook;
 
-use DesignPatterns\Creational\AbstractFactory\Php\AbstractMySQLBook;
+use DesignPatterns\Creational\AbstractFactory\Php\Book\AbstractMySQLBook;
 
 class OReillyMySQLBook extends AbstractMySQLBook
 {

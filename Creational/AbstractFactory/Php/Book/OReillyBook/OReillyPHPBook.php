@@ -1,8 +1,8 @@
 <?php
 
-namespace DesignPatterns\Creational\AbstractFactory\Php\OReillyBook;
+namespace DesignPatterns\Creational\AbstractFactory\Php\Book\OReillyBook;
 
-use DesignPatterns\Creational\AbstractFactory\Php\AbstractPHPBook;
+use DesignPatterns\Creational\AbstractFactory\Php\Book\AbstractPHPBook;
 
 class OReillyPHPBook extends AbstractPHPBook
 {
