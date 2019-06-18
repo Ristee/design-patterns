@@ -16,3 +16,4 @@
 ### [Structural patterns](Structural)
 
 * [Adapter](Structural/Adapter)
+* [Bridge](Structural/Bridge)
