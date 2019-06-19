@@ -17,3 +17,4 @@
 
 * [Adapter](Structural/Adapter)
 * [Bridge](Structural/Bridge)
+* [Composite](Structural/Composite)
