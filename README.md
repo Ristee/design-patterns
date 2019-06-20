@@ -2,8 +2,9 @@
 
 ## Patterns
 
-- [SourceMaking](https://sourcemaking.com/)
 - [Refactoring.Guru](https://refactoring.guru/)
+- [SourceMaking](https://sourcemaking.com/)
+
 
 ### [Creational patterns](Creational)
 
@@ -18,3 +19,4 @@
 * [Adapter](Structural/Adapter)
 * [Bridge](Structural/Bridge)
 * [Composite](Structural/Composite)
+* [Decorator](Structural/Decorator)
