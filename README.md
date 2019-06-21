@@ -20,3 +20,4 @@
 * [Bridge](Structural/Bridge)
 * [Composite](Structural/Composite)
 * [Decorator](Structural/Decorator)
+* [Facade](Structural/Facade)
