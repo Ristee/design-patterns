@@ -21,3 +21,4 @@
 * [Composite](Structural/Composite)
 * [Decorator](Structural/Decorator)
 * [Facade](Structural/Facade)
+* [Flyweight](Structural/Flyweight)
