@@ -6,7 +6,6 @@ use DesignPatterns\Creational\AbstractFactory\Php\Book\OReillyBook\OReillyBookFa
 use DesignPatterns\Creational\AbstractFactory\Php\Book\SamsBook\SamsBookFactory;
 use PHPUnit\Framework\TestCase;
 
-
 class AbstractFactoryTest extends TestCase
 {
     public function testOReillyBookFactory()

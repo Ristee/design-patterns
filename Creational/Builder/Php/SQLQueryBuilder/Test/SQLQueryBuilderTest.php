@@ -2,7 +2,6 @@
 
 namespace DesignPatterns\Creational\Builder\Php\SQLQueryBuilder\Test;
 
-
 use DesignPatterns\Creational\Builder\Php\SQLQueryBuilder\MysqlQueryBuilder;
 use DesignPatterns\Creational\Builder\Php\SQLQueryBuilder\PostgresQueryBuilder;
 use DesignPatterns\Creational\Builder\Php\SQLQueryBuilder\SQLQueryBuilder;
