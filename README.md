@@ -22,3 +22,4 @@
 * [Decorator](Structural/Decorator)
 * [Facade](Structural/Facade)
 * [Flyweight](Structural/Flyweight)
+* [Proxy](Structural/Proxy)
