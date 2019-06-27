@@ -23,3 +23,7 @@
 * [Facade](Structural/Facade)
 * [Flyweight](Structural/Flyweight)
 * [Proxy](Structural/Proxy)
+
+### [Behavioral patterns](Behavioral)
+
+* [Chain of responsibility](Behavioral/ChainOfResponsibility)
