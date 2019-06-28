@@ -6,4 +6,4 @@
 
 ## Examples
 
-* [Proxy in PHP: AccessProxy](Php/AccessProxy)
+* [Proxy in PHP: AccessProxy](PHP/AccessProxy)

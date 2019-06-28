@@ -6,4 +6,4 @@
 
 ## Examples
 
-* [Facade in PHP: Subsystem](Php/Subsystem)
+* [Facade in PHP: Subsystem](PHP/Subsystem)

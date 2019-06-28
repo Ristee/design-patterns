@@ -6,4 +6,4 @@
 
 ## Examples
 
-* [Flyweight in PHP: Flyweight](Php/Flyweight)
+* [Flyweight in PHP: Flyweight](PHP/Flyweight)

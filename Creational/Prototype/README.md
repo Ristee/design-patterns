@@ -6,4 +6,4 @@
 
 ## Examples
 
-* [Prototype in PHP: Page](Php/Page)
+* [Prototype in PHP: Page](PHP/Page)

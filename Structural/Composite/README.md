@@ -6,4 +6,4 @@
 
 ## Examples
 
-* [Composite in PHP: Form](Php/Form)
+* [Composite in PHP: Form](PHP/Form)

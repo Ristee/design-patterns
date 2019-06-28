@@ -6,4 +6,4 @@
 
 ## Examples
 
-* [Factory Method in PHP: SocialNetworkPoster](Php/SocialNetworkPoster)
+* [Factory Method in PHP: SocialNetworkPoster](PHP/SocialNetworkPoster)

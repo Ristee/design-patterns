@@ -6,4 +6,4 @@
 
 ## Examples
 
-* [Decorator in PHP: Text filter](Php/TextFilter)
+* [Decorator in PHP: Text filter](PHP/TextFilter)

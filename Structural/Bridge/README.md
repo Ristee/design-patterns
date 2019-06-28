@@ -6,4 +6,4 @@
 
 ## Examples
 
-* [Bridge in PHP: Page renderer](Php/PageRenderer)
+* [Bridge in PHP: Page renderer](PHP/PageRenderer)

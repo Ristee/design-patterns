@@ -6,4 +6,4 @@
 
 ## Examples
 
-* [Adapter in PHP: Notification](Php/Notification)
+* [Adapter in PHP: Notification](PHP/Notification)

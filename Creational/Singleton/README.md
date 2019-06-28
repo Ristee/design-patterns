@@ -6,4 +6,4 @@
 
 ## Examples
 
-* [Singleton in PHP: Page](Php/Config)
+* [Singleton in PHP: Page](PHP/Config)

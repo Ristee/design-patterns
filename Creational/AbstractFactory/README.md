@@ -6,4 +6,4 @@
 
 ## Examples
 
-* [Abstract Factory in PHP: Book](Php)
+* [Abstract Factory in PHP: Book](PHP/Book)
