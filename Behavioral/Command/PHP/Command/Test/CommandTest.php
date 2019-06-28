@@ -2,10 +2,6 @@
 
 namespace DesignPatterns\Behavioral\Command\PHP\Command\Test;
 
-use DesignPatterns\Behavioral\ChainOfResponsibility\Php\Middleware\RoleCheckMiddleware;
-use DesignPatterns\Behavioral\ChainOfResponsibility\Php\Middleware\Server;
-use DesignPatterns\Behavioral\ChainOfResponsibility\Php\Middleware\ThrottlingMiddleware;
-use DesignPatterns\Behavioral\ChainOfResponsibility\Php\Middleware\UserExistsMiddleware;
 use DesignPatterns\Behavioral\Command\PHP\Command\ComplexCommand;
 use DesignPatterns\Behavioral\Command\PHP\Command\Invoker;
 use DesignPatterns\Behavioral\Command\PHP\Command\Receiver;
