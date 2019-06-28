@@ -6,4 +6,4 @@
 
 ## Examples
 
-* [Chain of Responsibility in PHP: Middleware](Php/Middleware)
+* [Chain of Responsibility in PHP: Middleware](PHP/Middleware)

@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Behavioral\ChainOfResponsibility\Php\Middleware;
+namespace DesignPatterns\Behavioral\ChainOfResponsibility\PHP\Middleware;
 
 class ThrottlingMiddleware extends Middleware
 {

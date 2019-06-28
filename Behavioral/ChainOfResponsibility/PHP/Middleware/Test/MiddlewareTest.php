@@ -2,10 +2,10 @@
 
 namespace DesignPatterns\Behavioral\ChainOfResponsibility\Php\Test;
 
-use DesignPatterns\Behavioral\ChainOfResponsibility\Php\Middleware\RoleCheckMiddleware;
-use DesignPatterns\Behavioral\ChainOfResponsibility\Php\Middleware\Server;
-use DesignPatterns\Behavioral\ChainOfResponsibility\Php\Middleware\ThrottlingMiddleware;
-use DesignPatterns\Behavioral\ChainOfResponsibility\Php\Middleware\UserExistsMiddleware;
+use DesignPatterns\Behavioral\ChainOfResponsibility\PHP\Middleware\RoleCheckMiddleware;
+use DesignPatterns\Behavioral\ChainOfResponsibility\PHP\Middleware\Server;
+use DesignPatterns\Behavioral\ChainOfResponsibility\PHP\Middleware\ThrottlingMiddleware;
+use DesignPatterns\Behavioral\ChainOfResponsibility\PHP\Middleware\UserExistsMiddleware;
 use PHPUnit\Framework\TestCase;
 
 class MiddlewareTest extends TestCase
