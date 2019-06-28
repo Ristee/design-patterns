@@ -27,3 +27,4 @@
 ### [Behavioral patterns](Behavioral)
 
 * [Chain of responsibility](Behavioral/ChainOfResponsibility)
+* [Command](Behavioral/Command)
