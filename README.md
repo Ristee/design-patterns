@@ -29,3 +29,4 @@
 * [Chain of responsibility](Behavioral/ChainOfResponsibility)
 * [Command](Behavioral/Command)
 * [Iterator](Behavioral/Iterator)
+* [Mediator](Behavioral/Mediator)
