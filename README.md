@@ -31,3 +31,4 @@
 * [Iterator](Behavioral/Iterator)
 * [Mediator](Behavioral/Mediator)
 * [Memento](Behavioral/Memento)
+* [Observer](Behavioral/Observer)
