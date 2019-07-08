@@ -32,3 +32,4 @@
 * [Mediator](Behavioral/Mediator)
 * [Memento](Behavioral/Memento)
 * [Observer](Behavioral/Observer)
+* [State](Behavioral/State)
