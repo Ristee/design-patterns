@@ -33,4 +33,4 @@
 * [Memento](Behavioral/Memento)
 * [Observer](Behavioral/Observer)
 * [State](Behavioral/State)
-* [Strategy](Behavioral/Strategy)
+* [Template Method](Behavioral/TemplateMethod)
