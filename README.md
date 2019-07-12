@@ -34,3 +34,4 @@
 * [Observer](Behavioral/Observer)
 * [State](Behavioral/State)
 * [Template Method](Behavioral/TemplateMethod)
+* [Visitor](Behavioral/Visitor)
